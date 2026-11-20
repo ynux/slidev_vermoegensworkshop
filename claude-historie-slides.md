@@ -1,4 +1,4 @@
-# Vermögensbildung 1950–2025: drei Phasen
+# Vermögensbildung 1950–2025: Drei Phasen
 
 <div class="cols">
 
@@ -28,6 +28,8 @@
 
 </div>
 
+<div class="takeaway">Fast der ganze Rückgang beim Anteil des reichsten 1 % fand zwischen 1914 und 1952 statt: Zwischenkriegszeit und Vermögensabgaben nach 1945 waren die großen Gleichmacher. Seit 1990 gewinnen oben Unternehmensanteile und in der Mitte Immobilien an Wert. Das geht an der unteren Hälfte fast vollständig vorbei: Ihr Vermögen ist seit 1993 real kaum gewachsen.¹</div>
+
 <div class="sources">
 ¹ <a href="https://www.diw.de/de/diw_01.c.933594.de/publikationen/diskussionspapiere/2024_2105/wealth_and_its_distribution_in_germany__1895-2021.html">Albers/Bartels/Schularick, Wealth and Its Distribution in Germany, 1895–2021 (DIW Discussion Paper 2105, 2024)</a> · ² <a href="https://www.bundesbank.de/phf-ergebnisse">Bundesbank, PHF 2023 (Monatsbericht April 2025)</a>
 </div>
@@ -40,6 +42,7 @@
 .big { font-size: 1.8rem; font-weight: 700; line-height: 1; margin-bottom: 0.5rem; }
 .vs { font-size: 1.1rem; font-weight: 400; opacity: 0.6; }
 .cap { font-size: 0.7rem; line-height: 1.35; }
+.takeaway { margin-top: 0.9rem; padding: 0.5rem 0.8rem; border-left: 3px solid #8A8478; background: rgba(138,132,120,0.08); font-size: 0.72rem; line-height: 1.4; }
 .sources { position: absolute; left: 3.5rem; right: 3.5rem; bottom: 0.9rem; font-size: 0.5rem; line-height: 1.4; opacity: 0.6; }
 .sources a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
 </style>
