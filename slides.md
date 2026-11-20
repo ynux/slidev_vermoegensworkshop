@@ -1,4 +1,8 @@
-# Vermögen: Woher kommt das, oder eben nicht?
+
+hideInToc: true
+# Vermögen: Woher kommt es, oder eben nicht?
+
+Bevor wir loslegen
 
 Einordnung: 2026 hat eine Gruppe Interessierter beschlossen, einen Workshop zum Thema "Vermögensverteilung" zu organisieren. Nach einer Einführung teilt er sich in vier Arbeitsgruppen auf. Diese Slides sind ein Input für die Arbeitsgruppe, die sich damit beschäftigt, für wen die Vermögensbildung funktioniert hat und für wen nicht. 
 
@@ -9,23 +13,21 @@ Info: Ich habe viel Claude AI eingesetzt. Wenn ich dabei Unsinn übernommen habe
 
 # Betrachtungswinkel
 
-Outline
+Outline dieses Impulsvortrags
 
-1 Vier Vermögensstufen.
+<Toc />
 
-2 Entwicklung der Privatvermögen.
+Oder auch:
 
-3 Woher kommt's?
-
-4 Für wen hat es nicht funktioniert und warum?
-
-5 Was bedeutet das für grüne Politik?
+1. Vorbereitung: Vermögensbildung
+2. Eigentliches Thema: Wer sind die Verlierer*innen
+3. Und jetzt?
 
 ---
 class: text-sm
 ---
 
-# Vier Vermögensstufen und ihre Welten
+# Vier Vermögensstufen und ihre Welt 
 
 | Stufe | Nettovermögen | Anteil der Haushalte | Haushalte (Mio.) | Was das Vermögen für einen tut |
 |---|---|---|---|---|
@@ -37,7 +39,9 @@ class: text-sm
 
 ---
 
-# Anmerkungen
+# Anmerkungen zu den vier Vermögensstufen
+
+Was ich noch dazu sagen will:
 
 Die vier Vermögensstufen sind inspiriert von den 4 Income Levels von Gapminder
 
@@ -47,9 +51,10 @@ Die KI wollte die Stufen mit Wohneigentum illustrieren, was deutschlandweit sinn
 
 *Quellen: Bundesbank [PHF 2021](https://www.bundesbank.de/resource/blob/908138/5fa52fcaa9ad19972391d3c8c1bb82ce/mL/2023-04-vermoegensbefragung-data.pdf) / [PHF 2023](https://www.bundesbank.de/phf-ergebnisse) (Perzentile, Näherungswerte), [Destatis, Mikrozensus 2023](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Haushalte-Familien/_inhalt.html) (Zahl der Haushalte), [DIW Wochenbericht 29/2020](https://doi.org/10.18723/diw_wb:2020-29-1) (Spitzenvermögen). Nettovermögen = Vermögen minus Schulden, ohne Rentenansprüche.*
 ---
-
 # Vermögensbildung historisch, 1950 - 2025 in Deutschland
 
+---
+src: ./claude-historie-slides.md
 ---
 
 ---
@@ -63,18 +68,11 @@ src: ./claude-schulden-slides.md
 ---
 
 # Für welche Teile der Gesellschaft hat das nicht gut funktioniert?
+
+---
+src: ./claude-gruppen-slides.md
 ---
 
-# Männer und Frauen, Verteilung
 ---
 
-# Nach Alter
----
-
-# nach Ost West
----
-
-# nach Bildung
----
-
-# nach Staatsangehörigkeit
+# Was sagen die Grünen dazu?
