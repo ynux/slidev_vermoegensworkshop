@@ -1,6 +1,5 @@
----
+
 hideInToc: true
----
 # Vermögen: Woher kommt es, oder eben nicht?
 
 Bevor wir loslegen
@@ -11,14 +10,18 @@ Abgrenzung: Es geht um Deutschland. Und es geht um einerseits um den Stand der V
 
 Info: Ich habe viel Claude AI eingesetzt. Wenn ich dabei Unsinn übernommen habe, bin ich schuld.
 ---
-hideInToc: true
----
 
 # Betrachtungswinkel
 
 Outline dieses Impulsvortrags
 
 <Toc />
+
+Oder auch:
+
+1. Vorbereitung: Vermögensbildung
+2. Eigentliches Thema: Wer sind die Verlierer*innen
+3. Und jetzt?
 
 ---
 class: text-sm
@@ -35,8 +38,6 @@ class: text-sm
 | **Gesamt** | | 100 % | 40,8 | |
 
 ---
-hideInToc: true
----
 
 # Anmerkungen zu den vier Vermögensstufen
 
@@ -49,32 +50,33 @@ Sehr hohe Vermögen sind in Befragungen untererfasst, weil sehr Reiche selten te
 Die KI wollte die Stufen mit Wohneigentum illustrieren, was deutschlandweit sinnvoll gewesen wäre, hier in München eher nicht
 
 *Quellen: Bundesbank [PHF 2021](https://www.bundesbank.de/resource/blob/908138/5fa52fcaa9ad19972391d3c8c1bb82ce/mL/2023-04-vermoegensbefragung-data.pdf) / [PHF 2023](https://www.bundesbank.de/phf-ergebnisse) (Perzentile, Näherungswerte), [Destatis, Mikrozensus 2023](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Haushalte-Familien/_inhalt.html) (Zahl der Haushalte), [DIW Wochenbericht 29/2020](https://doi.org/10.18723/diw_wb:2020-29-1) (Spitzenvermögen). Nettovermögen = Vermögen minus Schulden, ohne Rentenansprüche.*
+---
+# Vermögensbildung historisch, 1950 - 2025 in Deutschland
+
+---
+src: ./claude-historie-slides.md
+---
 
 ---
 src: ./claude-vermoegensbildung-slides.md
 ---
 
 ---
-# Vermögensbildung historisch, 1950 - 2025 in Deutschland
-
-src: ./claude-historie-slides.md
----
----
-hideInToc: true
 src: ./claude-schulden-slides.md
 ---
 
 ---
 
-# Für welche Teile der Gesellschaft hat das nicht funktioniert?
+# Für welche Teile der Gesellschaft hat das nicht gut funktioniert?
 
 ---
-hideInToc: true
 src: ./claude-gruppen-slides.md
 ---
 
 ---
-src: ./claude-gruene-slides.md
----
 
 # Was sagen die Grünen dazu?
+
+---
+src: ./claude-gruene-slides.md
+---

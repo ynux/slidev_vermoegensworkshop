@@ -1,0 +1,22 @@
+[
+ {
+  "gruppe": "16–24 Jahre, 2010/11, geboren ca. 1986–1995",
+  "median_real_2010": 2420,
+  "mittel_real_2010": 21640
+ },
+ {
+  "gruppe": "16–24 Jahre, 2021, geboren ca. 1997–2005",
+  "median_real_2010": 9677,
+  "mittel_real_2010": 27165
+ },
+ {
+  "gruppe": "25–34 Jahre, 2010/11, geboren ca. 1976–1986",
+  "median_real_2010": 13590,
+  "mittel_real_2010": 45000
+ },
+ {
+  "gruppe": "25–34 Jahre, 2021, geboren ca. 1987–1996",
+  "median_real_2010": 15874,
+  "mittel_real_2010": 95840
+ }
+]
