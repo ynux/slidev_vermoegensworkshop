@@ -32,7 +32,7 @@
 
 </div>
 
-<p class="source">Quellen: Destatis, Überschuldungsstatistik 2025 (Juli 2026); Creditreform, SchuldnerAtlas (Stichtag 1.10.2026, neue Methode)</p>
+<p class="source">Quellen: <a href="https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_249_63511.html">Destatis, Überschuldungsstatistik 2025 (Juli 2026)</a> · <a href="https://www.creditreform.de/aktuelles-wissen/pressemeldungen-fachbeitraege/news-details/show/schuldneratlas-2026-ueberschuldung-steigt-auf-736-millionen-betroffene">Creditreform, SchuldnerAtlas 2026 (Stichtag 1.10.2026, neue Methode)</a></p>
 
 <style>
 .lead { font-size: 1.15rem; opacity: 0.75; margin-top: 0.25rem; }
@@ -46,6 +46,7 @@
 .num { font-size: 2.4rem; font-weight: 700; line-height: 1; }
 .cap { font-size: 0.85rem; line-height: 1.3; margin-top: 0.3rem; }
 .source { position: absolute; left: 3.5rem; bottom: 1rem; font-size: 0.6rem; opacity: 0.6; }
+.source a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
 </style>
 
 <!--
