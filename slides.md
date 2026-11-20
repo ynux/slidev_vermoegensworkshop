@@ -1,18 +1,18 @@
-# Vermögen: Woher ist es gekommen, oder eben nicht?
-
+# Vermögen: Woher kommt das, oder eben nicht?
 
 Einordnung: 2026 hat eine Gruppe Interessierter beschlossen, einen Workshop zum Thema "Vermögensverteilung" zu organisieren. Nach einer Einführung teilt er sich in vier Arbeitsgruppen auf. Diese Slides sind ein Input für die Arbeitsgruppe, die sich damit beschäftigt, für wen die Vermögensbildung funktioniert hat und für wen nicht. 
 
-Abgrenzung: Es geht um Deutschland 1950 - 2025. 
+Abgrenzung: Es geht um Deutschland. Und es geht um einerseits um den Stand der Vermögensverteilung ca. 2025, andereseits um die Vermögensbildung 1950 - 2025. 
 
 ---
 
 # Betrachtungswinkel
 
-    1 Vier Vermögensstufen
-    2 Entwicklung der Privatvermögen 
-    3 Woher kommt's
-    4 Für wen hat es nicht funktioniert und warum
+    1 Vier Vermögensstufen.
+    2 Entwicklung der Privatvermögen.
+    3 Woher kommt's?
+    4 Für wen hat es nicht funktioniert und warum?
+    5 Was bedeutet das für grüne Politik?
 
 ---
 class: text-sm
