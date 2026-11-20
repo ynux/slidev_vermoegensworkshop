@@ -1,3 +1,7 @@
+---
+hideInToc: true
+---
+
 # Die Grünen (1): Große Vermögen und Erbschaften stärker besteuern
 
 <div class="cols2">
@@ -44,6 +48,8 @@ Erbschaftsteuer: Der Parteitagsbeschluss (Wiesbaden, 16.11.2024) lässt die Höh
 Gegenargumente aus der Debatte, damit die Diskussion beide Seiten kennt: Union, FDP und AfD lehnen eine Vermögensteuer ab. Kritiker verweisen auf Bewertungsaufwand, mögliche Abwanderung von Kapital und Belastung von Familienunternehmen. Die Grünen selbst rechnen kurzfristig mit höherem Verwaltungsaufwand, weil Vermögen neu bewertet werden müssten.
 -->
 
+---
+hideInToc: true
 ---
 
 # Die Grünen (2): Vermögensaufbau für kleine und mittlere Einkommen

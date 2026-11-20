@@ -1,3 +1,7 @@
+---
+hideInToc: true
+---
+
 # Männer und Frauen
 
 <div class="gr">
@@ -42,6 +46,8 @@ Tabelle rechts: Mittelwerte innerhalb der Gruppen der Gesamtverteilung (SOEP v36
 -->
 
 ---
+hideInToc: true
+---
 
 # Nach Alter
 
@@ -85,6 +91,8 @@ Lesart: Ein Teil des Altersmusters ist normal (man spart im Lauf des Lebens). Di
 Grenzen: Grafik = Personen (SOEP 2019), rechts = Haushalte nach Alter der ältesten Person (PHF 2023). Gleiche Aussage, andere Einheit. 18–24 in den oberen Gruppen: gerundet 0–1 %.
 -->
 
+---
+hideInToc: true
 ---
 
 # Jahrgänge im Vergleich: gleiches Alter, andere Zeit
@@ -136,6 +144,8 @@ Kiel Institut (GREIX): Eigenkapitalbedarf in Städten seit 1980 etwa verdoppelt;
 -->
 
 ---
+hideInToc: true
+---
 
 # Ost und West
 
@@ -179,6 +189,8 @@ Grenzen: Ob Berlin bei „neue Länder“ mitzählt, sagt die DIW-Tabelle nicht;
 -->
 
 ---
+hideInToc: true
+---
 
 # Nach Bildung
 
@@ -217,6 +229,8 @@ Grenzen: Haushaltsebene, Bildung der Referenzperson (im Zweifel die Person mit d
 Ein Mittelwert/Median-Verhältnis von 21 bei „ohne Schulabschluss“ beruht auf wenigen Haushalten; die Bundesbank nennt keine Fallzahl je Zelle.
 -->
 
+---
+hideInToc: true
 ---
 
 # Migrationshintergrund und Staatsangehörigkeit
@@ -260,6 +274,8 @@ Grenzen: Die Verteilungsgrafik nutzt „Migrationshintergrund“ (SOEP, Personen
 In den obersten 1,5 % sind Menschen mit Migrationshintergrund etwas häufiger als in der Gruppe darunter (14 % gegenüber 12 %). Das ist in der Grafik als 0,9 % sichtbar; bei so wenigen Fällen ist das nicht belastbar.
 -->
 
+---
+hideInToc: true
 ---
 
 # Selbstständige, Beamt:innen, Angestellte, Arbeiter:innen
@@ -308,6 +324,8 @@ Tabelle rechts: Haushalte nach Stellung der Referenzperson.
 -->
 
 ---
+hideInToc: true
+---
 
 # Mieter:innen und Eigentümer:innen
 
@@ -351,6 +369,8 @@ Wie die Grafik entsteht: Die Bundesbank nennt für jede Vermögensgruppe den Ant
 Grenzen: Haushalte, nicht Personen. „Mieter:innen“ sind hier alle Haushalte ohne selbstgenutztes Wohneigentum.
 -->
 
+---
+hideInToc: true
 ---
 
 # Menschen mit Behinderung

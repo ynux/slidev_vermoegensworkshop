@@ -1,3 +1,7 @@
+---
+hideInToc: true
+---
+
 # Exkurs: Wie Menschen in die Schulden rutschen
 
 <p class="lead">Was Menschen in der Schuldnerberatung als Hauptauslöser nennen</p>

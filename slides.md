@@ -1,5 +1,7 @@
-
+---
 hideInToc: true
+---
+
 # Vermögen: Woher kommt es, oder eben nicht?
 
 Bevor wir loslegen
@@ -9,6 +11,8 @@ Einordnung: 2026 hat eine Gruppe Interessierter beschlossen, einen Workshop zum 
 Abgrenzung: Es geht um Deutschland. Und es geht um einerseits um den Stand der Vermögensverteilung ca. 2025, andereseits um die Vermögensbildung 1950 - 2025. 
 
 Info: Ich habe viel Claude AI eingesetzt. Wenn ich dabei Unsinn übernommen habe, bin ich schuld.
+---
+hideInToc: true
 ---
 
 # Betrachtungswinkel
@@ -38,6 +42,8 @@ class: text-sm
 | **Gesamt** | | 100 % | 40,8 | |
 
 ---
+hideInToc: true
+---
 
 # Anmerkungen zu den vier Vermögensstufen
 
@@ -50,7 +56,9 @@ Sehr hohe Vermögen sind in Befragungen untererfasst, weil sehr Reiche selten te
 Die KI wollte die Stufen mit Wohneigentum illustrieren, was deutschlandweit sinnvoll gewesen wäre, hier in München eher nicht
 
 *Quellen: Bundesbank [PHF 2021](https://www.bundesbank.de/resource/blob/908138/5fa52fcaa9ad19972391d3c8c1bb82ce/mL/2023-04-vermoegensbefragung-data.pdf) / [PHF 2023](https://www.bundesbank.de/phf-ergebnisse) (Perzentile, Näherungswerte), [Destatis, Mikrozensus 2023](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Haushalte-Familien/_inhalt.html) (Zahl der Haushalte), [DIW Wochenbericht 29/2020](https://doi.org/10.18723/diw_wb:2020-29-1) (Spitzenvermögen). Nettovermögen = Vermögen minus Schulden, ohne Rentenansprüche.*
+
 ---
+
 # Vermögensbildung historisch, 1950 - 2025 in Deutschland
 
 ---
@@ -68,6 +76,10 @@ src: ./claude-schulden-slides.md
 ---
 
 # Für welche Teile der Gesellschaft hat das nicht gut funktioniert?
+
+---
+src: ./claude-frage-slides.md
+---
 
 ---
 src: ./claude-gruppen-slides.md

@@ -1,3 +1,7 @@
+---
+hideInToc: true
+---
+
 # Vermögensbildung 1950–2025: Drei Phasen
 
 <div class="cols">

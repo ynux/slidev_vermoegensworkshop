@@ -1,4 +1,5 @@
 ---
+hideInToc: true
 layout: default
 ---
 
@@ -45,6 +46,7 @@ Zu den Renditen: Lagemann/Rehm bilden Gruppen nach Bruttovermögen (untere 50 %,
 -->
 
 ---
+hideInToc: true
 layout: default
 ---
 
