@@ -92,3 +92,7 @@ src: ./claude-gruppen-slides.md
 ---
 src: ./claude-gruene-slides.md
 ---
+
+---
+src: ./claude-boden-slides.md
+---

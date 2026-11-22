@@ -1,0 +1,72 @@
+# Hebel Boden
+
+<div class="bg">
+
+<div class="mech">
+  <div class="h">Warum Boden?</div>
+  <div class="fact"><b>80 %</b><span>des Hauspreisanstiegs seit 1950 (14 Industrieländer) gehen auf steigende Bodenpreise zurück, nicht auf Baukosten.¹</span></div>
+  <div class="fact"><b>+39.000 %</b><span>Baulandpreise in München seit 1950.²</span></div>
+  <div class="fact"><b>70 %</b><span>der Mieterhaushalte gehören zu den ärmsten 40 % der Haushalte.³ Sie zahlen den Bodenwert über die Miete mit, ohne daran beteiligt zu sein.</span></div>
+</div>
+
+<div class="tools">
+  <div class="h">Mögliche Hebel und was die untere Hälfte davon hätte</div>
+  <div class="tool"><b>Grundsteuer als reine Bodenwertsteuer</b>, nicht auf die Miete umlegbar<span>Brache und Spekulation werden teurer, mehr Bauland</span></div>
+  <div class="tool"><b>Planungsgewinne abschöpfen</b> (wie die Münchner SoBoN seit 1994)<span>Flächen und Geld für bezahlbare Wohnungen</span></div>
+  <div class="tool"><b>Boden in öffentlicher Hand, Vergabe im Erbbaurecht</b><span>Eigentum an der Wohnung ohne Bodenkauf, viel weniger Eigenkapital nötig</span></div>
+  <div class="tool"><b>Genossenschaften auf diesem Boden</b><span>dauerhaft bezahlbare Mieten; Anteile als kleines eigenes Vermögen</span></div>
+</div>
+
+</div>
+
+<div class="qs">
+  <div class="qh">Zur Diskussion</div>
+  <ol>
+    <li>Gibt eine Bodenreform der unteren Hälfte nur mehr <b>Spielraum</b> (niedrigere Wohnkosten) oder auch <b>Vermögen</b>? Was müsste dazukommen?</li>
+    <li>Wer verliert dabei, und wie gehen wir damit um: die ältere Eigenheimbesitzerin mit wenig Rente, die Kommune ohne Geld für Ankäufe?</li>
+  </ol>
+</div>
+
+<div class="sources">
+¹ <a href="https://ideas.repec.org/p/ces/ceswps/_5006.html">Knoll/Schularick/Steger, No Price Like Home (14 Industrieländer, 1950–2012)</a> · ² <a href="https://lhm.muenchen.swm.de/dam/jcr:219b52a5-5ca1-4cb2-95c2-2ad3f2b5888e/20190403_PM_Gespraech_Bodenrecht_Vogel_Wanderwitz.pdf">Landeshauptstadt München, Pressemitteilung März 2019</a> · ³ <a href="https://www.bundesbank.de/resource/blob/908138/5fa52fcaa9ad19972391d3c8c1bb82ce/mL/2023-04-vermoegensbefragung-data.pdf">Bundesbank, PHF 2021, eigene Umrechnung</a>
+</div>
+
+<style>
+.bg { display: grid; grid-template-columns: 1fr 1.45fr; gap: 1.6rem; margin-top: 0.6rem; }
+.h { font-size: 0.8rem; font-weight: 700; margin-bottom: 0.45rem; border-bottom: 2px solid #8A8478; padding-bottom: 0.2rem; }
+.fact { display: grid; grid-template-columns: 6.2rem 1fr; gap: 0.6rem; align-items: baseline; margin-bottom: 0.5rem; }
+.fact b { font-size: 1.2rem; line-height: 1; white-space: nowrap; }
+.fact span { font-size: 0.66rem; line-height: 1.35; }
+.tool { font-size: 0.68rem; line-height: 1.3; padding: 0.3rem 0 0.3rem 0.6rem; border-left: 3px solid #2e7d32; margin-bottom: 0.35rem; }
+.tool span { display: block; opacity: 0.72; font-size: 0.62rem; margin-top: 0.1rem; }
+.qs { margin-top: 0.7rem; padding: 0.45rem 0.9rem; border-left: 3px solid #2e7d32; background: rgba(46,125,50,0.07); }
+.qh { font-size: 0.72rem; font-weight: 700; margin-bottom: 0.15rem; }
+.qs ol { margin: 0; padding-left: 1.1rem; font-size: 0.72rem; line-height: 1.4; }
+.qs li { margin: 0.1rem 0; }
+.sources { position: absolute; left: 3.5rem; right: 3.5rem; bottom: 0.9rem; font-size: 0.5rem; line-height: 1.4; opacity: 0.6; }
+.sources a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+</style>
+
+<!--
+Kernidee: Die Mitte ist seit 1990 vor allem über Immobilienpreise reicher geworden, und Immobilienpreise sind im Kern Bodenpreise. Die untere Hälfte besitzt keinen Boden, nimmt am Wertzuwachs nicht teil und zahlt ihn über die Miete mit. Boden ist damit der Mechanismus, über den die Kluft entsteht.
+
+Spielraum vs. Vermögen: Eine Bodenreform senkt vor allem Wohnkosten und schafft Sicherheit. Vermögen entsteht erst, wenn sie mit einem Weg in Eigentum verbunden wird – Erbbaurecht und Genossenschaften sind diese Brücke. Zur Erinnerung (Jahrgangs-Folie): Millennials sparen rund 14 Jahre für das Eigenkapital; ohne Bodenkauf wäre es ein Bruchteil.
+
+München:
+- SoBoN seit 1994: Bei Bebauungsplänen mit deutlicher Bodenwertsteigerung müssen Eigentümer Kosten tragen und geförderten Wohnraum schaffen. Sie hat aber den Anstieg der Bodenpreise nicht verhindert (Münchner Zukunftsdialog 2018). Ein Instrument allein reicht nicht.
+- Münchner Initiative für ein soziales Bodenrecht (seit 2017, überparteilich, u. a. mit Hans-Jochen Vogel). Zitat Stephan Reiß-Schmidt: „Die Vermögensverteilung wird durch die Bodenpreissteigerung immer ungleicher.“
+- Grüne München, Stadtversammlung 23.01.2018: Grundsteuer als reine Bodenwertsteuer, Umlagefähigkeit auf Mieter streichen, öffentlichen Grund nur noch im Erbbaurecht vergeben.
+
+Bodenwertsteuer: gefordert vom Bündnis „Grundsteuer: Zeitgemäß!“ (über 50 Bürgermeister, Deutscher Mieterbund, NABU). Die Grundsteuer ist Ländersache; Bayern hat ein reines Flächenmodell ohne Bodenwert gewählt – eine Bodenwertsteuer in München bräuchte also eine Änderung auf Landesebene.
+
+Grüne Bundesebene: Antrag 21/8379 (Okt. 2026) will die Spekulationsfrist für nicht selbst genutzte Immobilien abschaffen und Share Deals schließen. Ein Änderungsantrag zum Parteitag nennt Bodenwertsteigerungen „leistungslose Gewinne“; ob er so beschlossen wurde, ist nicht geprüft.
+
+Einwände, die kommen werden:
+- Eigentumsgarantie (Art. 14 GG). Gegenargument: Das Bundesverfassungsgericht hat 1967 festgehalten, dass Boden „unvermehrbar und unentbehrlich“ ist und nicht völlig dem freien Spiel der Kräfte überlassen werden darf.
+- Ältere Eigenheimbesitzer mit hohem Bodenwert und wenig Einkommen: bräuchten Freibeträge oder Stundung.
+- Haus & Grund: Das Baugesetzbuch werde mit sozialen und klimapolitischen Zielen überfrachtet.
+- Abschöpfung kann dazu führen, dass Eigentümer Flächen zurückhalten – deshalb oft kombiniert mit Bodenwertsteuer oder Baugebot.
+- Zeit: Bodenpolitik wirkt über Jahrzehnte; Kommunen brauchen Geld für Ankäufe.
+
+„70 % der Mieterhaushalte in den ärmsten 40 %“: Bundesbank PHF 2021, Eigentümerquote je Vermögensgruppe, nach Bayes umgerechnet (siehe Folie Mieter:innen und Eigentümer:innen).
+-->
