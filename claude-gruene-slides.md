@@ -21,7 +21,6 @@ hideInToc: true
 </div>
 </div>
 
-<p class="q">Zur Diskussion: Die Instrumente setzen ganz oben an. Welche der Gruppen aus Teil 2 hätten davon etwas, und auf welchem Weg?</p>
 
 <div class="sources">
 ¹ <a href="https://www.bundestag.de/1221748">hib 758/2026, Drucksache 21/8267</a> · ² <a href="https://cms.gruene.de/uploads/assets/Beschluss-vorläufig-VR-09-Für_mehr_Gerechtigkeit_und_Effizienz_Erbschaftsteuer_reformieren.pdf">BDK-Beschluss „Erbschaftsteuer reformieren“, November 2024</a> · ³ <a href="https://www.bundestag.de/presse/hib/kurzmeldungen-1113500">hib 474/2025</a>, <a href="https://dserver.bundestag.de/btd/21/044/2104456.pdf">Drucksache 21/4456</a> · ⁴ <a href="https://dserver.bundestag.de/btd/21/033/2103349.pdf">Drucksache 21/3349</a>, <a href="https://dserver.bundestag.de/btd/21/048/2104892.pdf">21/4892</a>
@@ -33,12 +32,13 @@ hideInToc: true
 .head { font-size: 0.9rem; font-weight: 700; margin-bottom: 0.6rem; }
 .row { display: flex; justify-content: space-between; gap: 0.6rem; font-size: 0.72rem; padding: 0.3rem 0; border-bottom: 1px solid #DDD6CA; }
 .cap { font-size: 0.72rem; line-height: 1.4; margin-top: 0.5rem; }
-.q { margin-top: 1.2rem; padding: 0.5rem 0.8rem; border-left: 3px solid #2e7d32; background: rgba(46,125,50,0.07); font-size: 0.78rem; }
 .sources { position: absolute; left: 3.5rem; right: 3.5rem; bottom: 0.9rem; font-size: 0.5rem; line-height: 1.4; opacity: 0.6; }
 .sources a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
 </style>
 
 <!--
+Frage für die Diskussion, falls sie nicht von selbst kommt: Die Instrumente setzen ganz oben an. Welche der Gruppen aus Teil 2 hätten davon etwas, und auf welchem Weg?
+
 Stand: November 2026. Die Grünen sind im Bundestag in der Opposition; ihre Anträge haben derzeit keine Mehrheit.
 
 Vermögensteuer (Drucksache 21/8267, 30.09.2026): linear-progressiv, Mindestgrenzsteuersatz 2 % ab 500 Mio. €, 3 % ab 1 Mrd. €, 4 % ab 10 Mrd. €. Gezahlte Einkommensteuer wird angerechnet. Begründung der Fraktion: Kapitalerträge werden niedriger besteuert als Arbeit, Holding-Strukturen senken die Steuer auf Ausschüttungen. Zum Vergleich: Der Programmentwurf zur Bundestagswahl 2021 sah noch 1 % ab 2 Mio. € pro Person vor (taz, 2021).
@@ -65,13 +65,12 @@ hideInToc: true
 </div>
 <div class="col">
   <div class="head">Abgleich mit Teil 2</div>
-  <div class="cap"><b>Wer profitiert?</b> Sparzulage und Pauschbetrag helfen, wer sparen kann. Ein Viertel der Menschen mit selbsteingeschätzter Behinderung kann keine 1.000 € aus Erspartem zahlen.</div>
+  <div class="cap"><b>Wem das hilft:</b> Sparzulage und Pauschbetrag helfen, wer sparen kann. Ein Viertel der Menschen mit selbsteingeschätzter Behinderung kann keine 1.000 € aus Erspartem zahlen.</div>
   <div class="cap"><b>Wohneigentum:</b> Der Antrag enthält keine direkte Förderung. Er will Steuervorteile bei nicht selbst genutzten Immobilien und bei Share Deals abbauen.¹</div>
   <div class="cap"><b>Erbschaften:</b> Die Reform betrifft die Spitze. Ein Grunderbe für alle jungen Erwachsenen, wie es das DIW vorgeschlagen hat, steht nicht in den hier ausgewerteten Beschlüssen.²</div>
 </div>
 </div>
 
-<p class="q">Zur Diskussion: Was fehlt aus eurer Sicht, damit die Wüste und der steinige Weg Vermögen aufbauen können?</p>
 
 <div class="sources">
 ¹ <a href="https://dserver.bundestag.de/btd/21/083/2108379.pdf">Antrag „Kleine und mittlere Einkommen tatsächlich entlasten und Rücklagen- und Vermögensaufbau stärken“, Drucksache 21/8379, Oktober 2026</a> · ² <a href="https://cms.gruene.de/uploads/assets/Beschluss-vorläufig-VR-09-Für_mehr_Gerechtigkeit_und_Effizienz_Erbschaftsteuer_reformieren.pdf">BDK-Beschluss 2024</a>; <a href="https://www.diw.de/de/diw_01.c.831678.de/publikationen/wochenberichte/2021_50_1/grunderbe_und_vermoegensteuern_koennen_die_vermoegensungleichheit_verringern.html">DIW Wochenbericht 50/2021 (Grunderbe)</a>
@@ -83,12 +82,13 @@ hideInToc: true
 .head { font-size: 0.9rem; font-weight: 700; margin-bottom: 0.6rem; }
 .row { display: flex; justify-content: space-between; gap: 0.6rem; font-size: 0.72rem; padding: 0.3rem 0; border-bottom: 1px solid #DDD6CA; }
 .cap { font-size: 0.72rem; line-height: 1.4; margin-top: 0.5rem; }
-.q { margin-top: 1.2rem; padding: 0.5rem 0.8rem; border-left: 3px solid #2e7d32; background: rgba(46,125,50,0.07); font-size: 0.78rem; }
 .sources { position: absolute; left: 3.5rem; right: 3.5rem; bottom: 0.9rem; font-size: 0.5rem; line-height: 1.4; opacity: 0.6; }
 .sources a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
 </style>
 
 <!--
+Frage für die Diskussion, falls sie nicht von selbst kommt: Was fehlt aus eurer Sicht, damit die Wüste und der steinige Weg Vermögen aufbauen können?
+
 Antrag 21/8379 vom 6.10.2026. Gegenfinanzierung u. a.: Spekulationsfrist für nicht selbst genutzte Immobilien abschaffen, Mindestdauer bei der Eigennutzungsregel, anteilige Grunderwerbsteuer bei Share Deals. Die Begründung nennt dabei junge Familien.
 
 Der Bürgerfonds stand schon im Wahlprogramm 2025. Laut Antrag soll er auch für die betriebliche Altersvorsorge geöffnet werden und Kapital für Unternehmen bereitstellen, auch für Start-ups.

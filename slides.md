@@ -8,7 +8,7 @@ Bevor wir loslegen
 
 Einordnung: 2026 hat eine Gruppe Interessierter beschlossen, einen Workshop zum Thema "Vermögensverteilung" zu organisieren. Nach einer Einführung teilt er sich in vier Arbeitsgruppen auf. Diese Slides sind ein Input für die Arbeitsgruppe, die sich damit beschäftigt, für wen die Vermögensbildung funktioniert hat und für wen nicht. 
 
-Abgrenzung: Es geht um Deutschland. Und es geht um einerseits um den Stand der Vermögensverteilung ca. 2025, andereseits um die Vermögensbildung 1950 - 2025. 
+Abgrenzung: Es geht um Deutschland. Und es geht einerseits um den Stand der Vermögensverteilung ca. 2025, andererseits um die Vermögensbildung 1948–2023. 
 
 Info: Ich habe viel Claude AI eingesetzt. Wenn ich dabei Unsinn übernommen habe, bin ich schuld.
 ---
@@ -36,10 +36,12 @@ class: text-sm
 | Stufe | Nettovermögen | Anteil der Haushalte | Haushalte (Mio.) | Was das Vermögen für einen tut |
 |---|---|---|---|---|
 | **1 – Kein Polster / <span style="color:#b8860b">Die Wüste</span>** | negative bis 10.000 € | ca. 23 % | ca. 9,4 | Nichts. Eine kaputte Waschmaschine ist eine Krise. |
-| **2 – Sparer / <span style="color:#4b4b4b">Der steinige Weg</span>** | 10.000 – 100.000 € | ca. 26 % | ca. 10,6 | Es gibt Erspartes, keine großen Sprünge. Das Vermögen wächst kaum. |
-| **3 – Rücklagen mit Spielraum /<span style="color:#2e7d32">Der Park</span>** | 100.000 € – 1 Mio. € | ca. 44 % | ca. 18,0 | Große Investitionen sind möglich, oft in eine eigene Wohnung. |
-| **4 – Das Kapital "arbeitet" / <span style="color:#d6336c">Die rosa Wolke</span>** | über 1 Mio. € | ca. 7 % | ca. 2,9 | Betriebsvermögen, Aktien, Mietimmobilien. Das Vermögen wächst von selbst. |
+| **2 – Sparer / <span style="color:#4b4b4b">Der steinige Weg</span>** | 10.000 – 100.000 € | ca. 26 % | ca. 10,8 | Es gibt Erspartes, keine großen Sprünge. Das Vermögen wächst kaum. |
+| **3 – Rücklagen mit Spielraum /<span style="color:#2e7d32">Der Park</span>** | 100.000 – 750.000 € | ca. 40 % | ca. 16,2 | Große Investitionen sind möglich, oft in eine eigene Wohnung. |
+| **4 – Das Kapital "arbeitet" / <span style="color:#d6336c">Die rosa Wolke</span>** | über 750.000 € | ca. 11 % | ca. 4,4 | Fast immer die eigene Wohnung, dazu meist weitere Immobilien, oft Aktien oder ein Betrieb. Das Vermögen wächst von selbst. |
 | **Gesamt** | | 100 % | 40,8 | |
+
+<p style="font-size:0.6rem; opacity:0.6; margin-top:0.6rem">Haushalte in Deutschland, Nettovermögen 2023. Quellen: <a href="https://publikationen.bundesbank.de/caas/v1/media/955436/data/dbdce1fbc3b7f0ac7fc8b3727c17112a">Bundesbank, PHF 2023, Tabellenanhang, Tab. 1</a> · <a href="https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Haushalte-Familien/_inhalt.html">Destatis, Mikrozensus 2023</a></p>
 
 ---
 hideInToc: true
@@ -49,17 +51,19 @@ hideInToc: true
 
 Was ich noch dazu sagen will:
 
-Die vier Vermögensstufen sind inspiriert von den 4 Income Levels von Gapminder
+Die vier Vermögensstufen sind inspiriert von den [4 Income Levels von Gapminder](https://www.gapminder.org/fw/income-levels/)
 
-Sehr hohe Vermögen sind in Befragungen untererfasst, weil sehr Reiche selten teilnehmen. Mit einer Zusatzstichprobe von Hochvermögenden und der Reichenliste des Manager Magazins kommt das DIW darauf, dass das reichste 1 % der Erwachsenen rund 35 % des Nettovermögens besitzt, nicht knapp 22 % wie in der normalen Befragung. Die Tabelle unterschätzt also vor allem, wie viel Vermögen in Stufe 4 steckt.
+So entsteht die Tabelle: Die Bundesbank veröffentlicht für 2023 die Perzentile des Nettovermögens der Haushalte (P20 = 7.100 €, P30 = 19.100 €, P40 = 49.300 €, Median = 103.200 €, P80 = 473.500 €, P90 = 779.500 €). Die Stufengrenzen liegen dazwischen: 10.000 € etwa beim 23. Perzentil, 100.000 € knapp unter dem Median, 750.000 € etwa beim 89. Perzentil. Die rosa Wolke ist damit ungefähr das reichste Zehntel der Haushalte. Die Zahl der Haushalte ist der Anteil mal 40,8 Mio. Privathaushalte. Nettovermögen heißt Vermögen minus Schulden, ohne Rentenansprüche.
+
+Sehr hohe Vermögen sind in Befragungen untererfasst, weil sehr Reiche selten teilnehmen. Die Tabelle unterschätzt also vor allem, wie viel Vermögen in Stufe 4 steckt.
 
 Die KI wollte die Stufen mit Wohneigentum illustrieren, was deutschlandweit sinnvoll gewesen wäre, hier in München eher nicht
 
-*Quellen: Bundesbank [PHF 2021](https://www.bundesbank.de/resource/blob/908138/5fa52fcaa9ad19972391d3c8c1bb82ce/mL/2023-04-vermoegensbefragung-data.pdf) / [PHF 2023](https://www.bundesbank.de/phf-ergebnisse) (Perzentile, Näherungswerte), [Destatis, Mikrozensus 2023](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Haushalte-Familien/_inhalt.html) (Zahl der Haushalte), [DIW Wochenbericht 29/2020](https://doi.org/10.18723/diw_wb:2020-29-1) (Spitzenvermögen). Nettovermögen = Vermögen minus Schulden, ohne Rentenansprüche.*
+*Quellen: [Bundesbank, PHF 2023, Tabellenanhang, Tab. 1](https://publikationen.bundesbank.de/caas/v1/media/955436/data/dbdce1fbc3b7f0ac7fc8b3727c17112a) · [Destatis, Mikrozensus 2023](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Haushalte-Familien/_inhalt.html)*
 
 ---
 
-# Vermögensbildung historisch, 1950 - 2025 in Deutschland
+# Vermögensbildung historisch, 1948–2023 in Deutschland
 
 ---
 src: ./claude-historie-slides.md
@@ -70,15 +74,15 @@ src: ./claude-vermoegensbildung-slides.md
 ---
 
 ---
-src: ./claude-schulden-slides.md
----
-
----
 
 # Für welche Teile der Gesellschaft hat das nicht gut funktioniert?
 
 ---
 src: ./claude-frage-slides.md
+---
+
+---
+src: ./claude-einheit-slides.md
 ---
 
 ---
@@ -95,4 +99,16 @@ src: ./claude-gruene-slides.md
 
 ---
 src: ./claude-boden-slides.md
+---
+
+---
+
+# Anhang
+
+---
+src: ./claude-schulden-slides.md
+---
+
+---
+src: ./claude-anhang-gruppen-slides.md
 ---
