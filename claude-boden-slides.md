@@ -1,5 +1,7 @@
 # Hebel Boden
 
+<Kommentar>Den Reichen nehmen, den Armen geben ist ein guter Ansatz, ändert aber erstaunlich wenig bei den Zahlen. Die kommen stark von den Boden- und Immobilienpreisen her: Wer hat Wohneigentum, wer bekommt daraus Rendite, wer zahlt Miete? Auch: Wer wohnt zur Miete und ist auf Grundsicherung angewiesen? Die müssen nämlich ihr "Vermögen" abgeben bis auf 5.000 - 20.000 Euro, je nach Alter. </Kommentar>
+
 <div class="bg">
 
 <div class="mech">

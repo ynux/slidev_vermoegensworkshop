@@ -4,6 +4,8 @@ hideInToc: true
 
 # Männer und Frauen
 
+<Kommentar>Was die Folie nicht zeigt: Wer im Haushalt wirklich über die großen Summen verfügt. Und nicht, dass Männer oft relativ jung Schenkungen / Betriebsvermögen bekommen, während Fraun spät Witwen werden und erben.</Kommentar>
+
 <div class="gr">
 <div>
   <img src="/gruppen/geschlecht.svg" class="chart" alt="Verteilung von Frauen und Männern über drei Vermögensgruppen, SOEP 2019" />
@@ -51,6 +53,8 @@ hideInToc: true
 ---
 
 # Nach Alter
+
+<Kommentar></Kommentar>
 
 <div class="gr">
 <div>
@@ -102,6 +106,8 @@ hideInToc: true
 
 # Ost und West
 
+<Kommentar>Anmerkung aus dem Publikum: Die Immobilien im Osten sind oft weniger viel wert. Und: Die Landbevölkerung ist relativ alt. Das sollte zu höherem Vermögen führen.</Kommentar>
+
 <div class="gr">
 <div>
   <img src="/gruppen/ost-west.svg" class="chart" alt="Verteilung von Menschen in Ost und West über drei Vermögensgruppen, SOEP 2019" />
@@ -149,6 +155,8 @@ hideInToc: true
 
 # Nach Bildung
 
+<Kommentar>Ohne Schul- oder Berufsschulabschluss landet man als junger Mensch ziemlich sicher im Dreck. Es gibt Ältere ohne Abschluss und mit ordentlich Geld. Der Realschulabschluss beispielsweise hält die Hälfte der Leute aus der Wüste heraus. Achtung, die Achse ist logarithmisch.</Kommentar>
+
 <div class="gr">
 <div>
   <img src="/gruppen/bildung.svg" class="chart" alt="Median und Mittelwert des Haushaltsnettovermögens nach Bildung, PHF 2023, logarithmische Achse" />
@@ -189,6 +197,8 @@ hideInToc: true
 ---
 
 # Migrationshintergrund und Staatsangehörigkeit
+
+<Kommentar>Viele migrantische Personen mit Arbeit schicken Geld zu Verwandten -- natürlich tun das auch Deutsche. Dazu gibt es wieder nur Befragungen, keine belastbaren Daten.</Kommentar>
 
 <div class="gr">
 <div>
@@ -236,6 +246,8 @@ hideInToc: true
 ---
 
 # Selbstständige, Beamt:innen, Angestellte, Arbeiter:innen
+
+<Kommentar></Kommentar>
 
 <div class="gr">
 <div>
@@ -288,6 +300,8 @@ hideInToc: true
 ---
 
 # Mieter:innen und Eigentümer:innen
+
+<Kommentar>Mich persönlich freuen die 1-2% wohlhabenden Haushalte, die zur Miete wohnen.</Kommentar>
 
 <div class="gr">
 <div>

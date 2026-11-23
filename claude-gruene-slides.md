@@ -4,6 +4,8 @@ hideInToc: true
 
 # Die Grünen (1): Große Vermögen und Erbschaften stärker besteuern
 
+<Kommentar></Kommentar>
+
 <div class="cols2">
 <div class="col">
   <div class="head">Vermögensteuer nur für Extremvermögen</div>
@@ -54,6 +56,8 @@ hideInToc: true
 
 # Die Grünen (2): Vermögensaufbau für kleine und mittlere Einkommen
 
+<Kommentar></Kommentar>
+
 <div class="cols2">
 <div class="col">
   <div class="head">Was die Fraktion vorschlägt</div>
@@ -64,8 +68,8 @@ hideInToc: true
   <div class="cap">Ein staatlich verwalteter Fonds für die Altersvorsorge: Man ist automatisch dabei und kann austreten. Kostengünstig, breit gestreut angelegt.¹</div>
 </div>
 <div class="col">
-  <div class="head">Abgleich mit Teil 2</div>
-  <div class="cap"><b>Wem das hilft:</b> Sparzulage und Pauschbetrag helfen, wer sparen kann. Ein Viertel der Menschen mit selbsteingeschätzter Behinderung kann keine 1.000 € aus Erspartem zahlen.</div>
+  <div class="head">Abgleich mit den Gruppen</div>
+  <div class="cap"><b>Wem das hilft:</b> Sparzulage und Pauschbetrag helfen, wer sparen kann. Haushalte mit weniger als 900&nbsp;€ Nettoeinkommen sparen im Schnitt nichts, sondern geben 174&nbsp;€ im Monat mehr aus, als sie einnehmen.³</div>
   <div class="cap"><b>Wohneigentum:</b> Der Antrag enthält keine direkte Förderung. Er will Steuervorteile bei nicht selbst genutzten Immobilien und bei Share Deals abbauen.¹</div>
   <div class="cap"><b>Erbschaften:</b> Die Reform betrifft die Spitze. Ein Grunderbe für alle jungen Erwachsenen, wie es das DIW vorgeschlagen hat, steht nicht in den hier ausgewerteten Beschlüssen.²</div>
 </div>
@@ -73,7 +77,7 @@ hideInToc: true
 
 
 <div class="sources">
-¹ <a href="https://dserver.bundestag.de/btd/21/083/2108379.pdf">Antrag „Kleine und mittlere Einkommen tatsächlich entlasten und Rücklagen- und Vermögensaufbau stärken“, Drucksache 21/8379, Oktober 2026</a> · ² <a href="https://cms.gruene.de/uploads/assets/Beschluss-vorläufig-VR-09-Für_mehr_Gerechtigkeit_und_Effizienz_Erbschaftsteuer_reformieren.pdf">BDK-Beschluss 2024</a>; <a href="https://www.diw.de/de/diw_01.c.831678.de/publikationen/wochenberichte/2021_50_1/grunderbe_und_vermoegensteuern_koennen_die_vermoegensungleichheit_verringern.html">DIW Wochenbericht 50/2021 (Grunderbe)</a>
+¹ <a href="https://dserver.bundestag.de/btd/21/083/2108379.pdf">Antrag „Kleine und mittlere Einkommen tatsächlich entlasten und Rücklagen- und Vermögensaufbau stärken“, Drucksache 21/8379, Oktober 2026</a> · ² <a href="https://cms.gruene.de/uploads/assets/Beschluss-vorläufig-VR-09-Für_mehr_Gerechtigkeit_und_Effizienz_Erbschaftsteuer_reformieren.pdf">BDK-Beschluss 2024</a>; <a href="https://www.diw.de/de/diw_01.c.831678.de/publikationen/wochenberichte/2021_50_1/grunderbe_und_vermoegensteuern_koennen_die_vermoegensungleichheit_verringern.html">DIW Wochenbericht 50/2021 (Grunderbe)</a> · ³ <a href="https://destatis.de/EN/Themes/Society-Environment/Income-Consumption-Living-Conditions/Income-Receipts-Expenditure/Tables/liste-Income-receipts-expenditure-selected-budgetary-signs-net.html">Destatis, EVS 2018</a>
 </div>
 
 <style>

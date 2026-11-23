@@ -4,6 +4,8 @@ hideInToc: true
 
 # Jahrgänge im Vergleich: gleiches Alter, andere Zeit
 
+<Kommentar>Diese Folie ist schwer zu lesen, deshalb in den Anhang verbannt.</Kommentar>
+
 <div class="gr">
 <div>
   <img src="/gruppen/kohorten.svg" class="chart" alt="Median und Mittelwert des Haushaltsnettovermögens junger Haushalte 2010/11 und 2021, in Preisen von 2010" />
@@ -56,6 +58,8 @@ hideInToc: true
 
 # Menschen mit Behinderung
 
+<Kommentar>Um diese Folie zu verstehen, müsste man sich mit den Begriffen und Zahlen beschäftigen</Kommentar>
+
 <div class="gr">
 <div>
   <img src="/gruppen/behinderung-legende.svg" class="leg" alt="Legende: blau ohne Beeinträchtigung, hellorange mit Beeinträchtigung, dunkelorange mit selbsteingeschätzter Behinderung" />
@@ -72,13 +76,13 @@ hideInToc: true
   <div class="row"><span>kein Vermögen</span><b>19 %</b></div>
   <div class="row"><span>unter 5.000 €</span><b>25 %</b></div>
   <div class="row"><span>ab 25.000 €</span><b>29 %</b></div>
-  <div class="cap">Ohne Beeinträchtigung haben weniger als 10 % kein Vermögen.¹</div>
-  <div class="cap">Wer Grundsicherung braucht, darf nur 10.000 € behalten.² Für Assistenz (Eingliederungshilfe) liegt die Grenze 2026 bei 71.190 €.³</div>
+  <div class="cap">Ohne Beeinträchtigung haben weniger als 10&nbsp;% kein Vermögen.¹</div>
+  <div class="cap">Wer Grundsicherung braucht, darf wenig Erspartes behalten: im Alter oder bei Erwerbsminderung 10.000&nbsp;€, sonst seit Juli 2026 je nach Alter 5.000&nbsp;€ (unter 30) bis 20.000&nbsp;€ (ab 50).² Eine angemessene selbst bewohnte Wohnung bleibt zusätzlich geschützt. Für Assistenz (Eingliederungshilfe) liegt die Grenze 2026 bei 71.190&nbsp;€.³</div>
 </div>
 </div>
 
 <div class="sources">
-¹ <a href="https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-598-abschlussbericht-repraesentativbefragung-teilhabe.html">BMAS/infas, Teilhabebefragung, Abschlussbericht 2022, S. 171–172</a> · ² <a href="https://www.test.de/Sozialhilfe-Voraussetzungen-Antrag-Pflichten-5795178-0/">Stiftung Warentest, Sozialhilfe</a> · ³ <a href="https://www.betanet.de/eingliederungshilfe-einkommen-und-vermoegen.html">betanet, Eingliederungshilfe: Einkommen und Vermögen</a>
+¹ <a href="https://www.bmas.de/DE/Service/Publikationen/Forschungsberichte/fb-598-abschlussbericht-repraesentativbefragung-teilhabe.html">BMAS/infas, Teilhabebefragung, Abschlussbericht 2022, S. 171–172</a> · ² <a href="https://www.gesetze-im-internet.de/bshg_88abs2dv_1988/__1.html">§ 90 SGB XII mit Barbetrags-Verordnung</a>, <a href="https://dserver.bundestag.de/btd/21/035/2103541.pdf">§ 12 SGB II n.&nbsp;F., Drucksache 21/3541</a> · ³ <a href="https://www.betanet.de/eingliederungshilfe-einkommen-und-vermoegen.html">betanet, Eingliederungshilfe: Einkommen und Vermögen</a>
 </div>
 
 <style>
@@ -107,5 +111,5 @@ Grenzen: Menschen mit Beeinträchtigungen sind im Schnitt älter. Das Alter trei
 
 Ergänzung NRW (Teilhabebefragung, NRW-gewichtet): 32 % der Menschen mit starker Beeinträchtigung haben kein Vermögen, gegenüber knapp 10 % ohne Beeinträchtigung; im Eigentum wohnen 27 % gegenüber knapp der Hälfte (Zweiter Teilhabebericht NRW, Abb. 36–37).
 
-Vermögensgrenzen: Grundsicherung/Sozialhilfe 10.000 € je Person (Paare 20.000 €). Eingliederungshilfe (Assistenz) 150 % der Bezugsgröße = 71.190 € (2026), aus dem SGB XII herausgelöst durch das Bundesteilhabegesetz.
+Vermögensgrenzen: Grundsicherung im Alter und bei Erwerbsminderung (SGB XII) 10.000 € je Person (Paare 20.000 €). Grundsicherung für Arbeitsuchende (SGB II) seit 1.7.2026 nach Alter: unter 30 Jahre 5.000 €, ab 30 10.000 €, ab 40 12.500 €, ab 50 20.000 € je Person, innerhalb der Bedarfsgemeinschaft übertragbar; die einjährige Karenzzeit (40.000 € + 15.000 € je weitere Person) ist entfallen. Bis Juni 2026 galten nach der Karenzzeit 15.000 € je Person. In beiden Systemen ist eine angemessene selbst bewohnte Immobilie geschützt. Wie oft die Grenze greift: Es gibt keine Statistik der Ablehnungen wegen Vermögens; die meisten Antragstellenden haben ohnehin kaum Erspartes (IAB-Forschungsbericht 14/2025: Median 0 €, 75. Perzentil rund 5.150 €). Eingliederungshilfe (Assistenz) 150 % der Bezugsgröße = 71.190 € (2026), aus dem SGB XII herausgelöst durch das Bundesteilhabegesetz.
 -->

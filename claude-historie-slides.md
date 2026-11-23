@@ -4,6 +4,8 @@ hideInToc: true
 
 # Vermögensbildung 1948–2023
 
+<Kommentar style="max-width: 70%">Die Vorstellung "Lerne was, arbeite hart, kauf eine Wohnung" kommt aus den 60ern. Sie passt für die Familien ohne eigene Wohnung schon seit den 70ern nicht mehr, seit den 90ern herrscht Stillstand, seit 2020 Rückgang.</Kommentar>
+
 <div class="phase">
   <div class="era">1948 – 1990</div>
   <p>Nach der Währungsreform 1948 verlangte der Lastenausgleich rund die Hälfte des damaligen Vermögens, zahlbar in Raten bis 1979. Danach blieb der Anteil des reichsten 1&nbsp;% bis 1990 bei etwa einem Viertel. Die Mittelschicht baute Vermögen vor allem mit dem eigenen Haus auf: Die Wohneigentumsquote stieg von 27&nbsp;% (1950) auf knapp 40&nbsp;% in den 1980ern.¹</p>

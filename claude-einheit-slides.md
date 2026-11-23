@@ -4,12 +4,14 @@ hideInToc: true
 
 # Haushalte und Personen: zwei Arten zu zählen
 
+<Kommentar>Vorsicht, Einheiten! Die besseren Zahlen gibt es für Haushalte, und in vieler Hinsicht ist diese Betrachtung auch sinnvoll. Um beispielsweise Junge und Alte zu vergleichen ist es ungünstig.</Kommentar>
+
 <table class="hp">
 <thead>
 <tr><th></th><th>Haushalte</th><th>Erwachsene einzeln</th></tr>
 </thead>
 <tbody>
-<tr><td>Wer gezählt wird</td><td>jeder Haushalt mit dem Vermögen aller Mitglieder zusammen</td><td>jede Person ab 17 mit ihrem eigenen Vermögen</td></tr>
+<tr><td>Wer gezählt wird</td><td>jeder Haushalt mit dem Vermögen aller Mitglieder zusammen</td><td>jede erwachsene Person mit ihrem eigenen Vermögen</td></tr>
 <tr><td>Median</td><td class="n">103.200&nbsp;€</td><td class="n">22.800&nbsp;€</td></tr>
 <tr><td>unter 100.000&nbsp;€</td><td class="n">ca. 50&nbsp;%</td><td class="n">ca. 70&nbsp;%</td></tr>
 <tr><td>über 1&nbsp;Mio.&nbsp;€</td><td class="n">ca. 7&nbsp;%</td><td class="n">ca. 1,5&nbsp;%</td></tr>

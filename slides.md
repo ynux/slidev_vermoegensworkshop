@@ -4,7 +4,7 @@ hideInToc: true
 
 # Vermögen: Woher kommt es, oder eben nicht?
 
-Bevor wir loslegen
+<Kommentar style="max-width: 100%"> Der Workshop hat am 22.11.2026 stattgefunden: Einführung ins Thema, dieser Vortrag, dann die Themen "Überreiche", "Auswirkungen auf die Bildung" und "Aktuelle Maßnahmen der Bundesregierung zur Vermögensbildung". Anschließend habe ich kleine Änderungen gemacht und diese Kommentare hinzugefügt. </Kommentar>
 
 Einordnung: 2026 hat eine Gruppe Interessierter beschlossen, einen Workshop zum Thema "Vermögensverteilung" zu organisieren. Nach einer Einführung teilt er sich in vier Arbeitsgruppen auf. Diese Slides sind ein Input für die Arbeitsgruppe, die sich damit beschäftigt, für wen die Vermögensbildung funktioniert hat und für wen nicht. 
 
@@ -14,8 +14,9 @@ Info: Ich habe viel Claude AI eingesetzt. Wenn ich dabei Unsinn übernommen habe
 ---
 hideInToc: true
 ---
-
 # Betrachtungswinkel
+
+<Kommentar>auch "Inhaltsverzeichnis" genannt ...</Kommentar>
 
 Outline dieses Impulsvortrags
 
@@ -33,6 +34,8 @@ class: text-sm
 
 # Vier Vermögensstufen und ihre Welt 
 
+<Kommentar style="max-width: 40%">Auf diese Stufen werden wir aufbauen. In diesem Vortrag geht es nicht um die Superreichen, deshalb die relativ große Gruppe der Reichen. Und ja, ein Viertel hat so gut wie nichts. Und ein weiteres Viertel kann keine großen Sprünge machen.</Kommentar>
+
 | Stufe | Nettovermögen | Anteil der Haushalte | Haushalte (Mio.) | Was das Vermögen für einen tut |
 |---|---|---|---|---|
 | **1 – Kein Polster / <span style="color:#b8860b">Die Wüste</span>** | negative bis 10.000 € | ca. 23 % | ca. 9,4 | Nichts. Eine kaputte Waschmaschine ist eine Krise. |
@@ -49,7 +52,6 @@ hideInToc: true
 
 # Anmerkungen zu den vier Vermögensstufen
 
-Was ich noch dazu sagen will:
 
 Die vier Vermögensstufen sind inspiriert von den [4 Income Levels von Gapminder](https://www.gapminder.org/fw/income-levels/)
 
@@ -61,9 +63,13 @@ Die KI wollte die Stufen mit Wohneigentum illustrieren, was deutschlandweit sinn
 
 *Quellen: [Bundesbank, PHF 2023, Tabellenanhang, Tab. 1](https://publikationen.bundesbank.de/caas/v1/media/955436/data/dbdce1fbc3b7f0ac7fc8b3727c17112a) · [Destatis, Mikrozensus 2023](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Haushalte-Familien/_inhalt.html)*
 
+<Kommentar inline>Die PHF, „Private Haushalte und Ihre Finanzen“, ist eine seit 2010/11 regelmäßig durchgeführte Befragung. Wie, Befragung? Gibt es keine besseren Zahlen? Nein. Seitdem es keine Vermögenssteuer mehr gibt, gibt es nicht einmal mehr belastbare, systematisch erhobene Zahlen.</Kommentar>
+
 ---
 
 # Vermögensbildung historisch, 1948–2023 in Deutschland
+
+<Kommentar>Wie sind wir dahin gekommen, wo wir jetzt sind?</Kommentar>
 
 ---
 src: ./claude-historie-slides.md
@@ -75,7 +81,9 @@ src: ./claude-vermoegensbildung-slides.md
 
 ---
 
-# Für welche Teile der Gesellschaft hat das nicht gut funktioniert?
+# Für welche Teile der Gesellschaft hat das nicht funktioniert?
+
+<Kommentar>Kurz stoppen und überlegen: Welche Gruppen fallen euch ein?</Kommentar>
 
 ---
 src: ./claude-frage-slides.md
@@ -93,6 +101,8 @@ src: ./claude-gruppen-slides.md
 
 # Was sagen die Grünen dazu?
 
+<Kommentar></Kommentar>
+
 ---
 src: ./claude-gruene-slides.md
 ---
@@ -104,6 +114,8 @@ src: ./claude-boden-slides.md
 ---
 
 # Anhang
+
+<Kommentar></Kommentar>
 
 ---
 src: ./claude-schulden-slides.md
