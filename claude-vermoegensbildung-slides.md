@@ -5,7 +5,7 @@ layout: default
 
 # Vermögensbildung auf den vier Stufen
 
-<Kommentar>Hier habe ich die Spalte zum Einkommen nach der Präsentation herausgenommen. Wir fokussieren auf das Eigentum.</Kommentar>
+<Kommentar>Hier habe ich die Spalte zum Einkommen nach der Präsentation herausgenommen. Wir fokussieren auf das Eigentum. Und noch was: Stillstand oder Rückgang seit mehr als einer Generation. Das ist doch trostlos. Ist das der glücklicheren Hälfte klar? Ich kenne es nicht aus den deutschen Medien, sondern aus einem englischen Vortrag auf dem 35c3 von Guy Standing.</Kommentar>
 
 <table class="st">
 <thead>

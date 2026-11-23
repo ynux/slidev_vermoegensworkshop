@@ -63,7 +63,7 @@ Die KI wollte die Stufen mit Wohneigentum illustrieren, was deutschlandweit sinn
 
 *Quellen: [Bundesbank, PHF 2023, Tabellenanhang, Tab. 1](https://publikationen.bundesbank.de/caas/v1/media/955436/data/dbdce1fbc3b7f0ac7fc8b3727c17112a) · [Destatis, Mikrozensus 2023](https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Haushalte-Familien/_inhalt.html)*
 
-<Kommentar inline>Die PHF, „Private Haushalte und Ihre Finanzen“, ist eine seit 2010/11 regelmäßig durchgeführte Befragung. Wie, Befragung? Gibt es keine besseren Zahlen? Nein. Seitdem es keine Vermögenssteuer mehr gibt, gibt es nicht einmal mehr belastbare, systematisch erhobene Zahlen.</Kommentar>
+<Kommentar inline>Die PHF, „Private Haushalte und Ihre Finanzen“, ist eine seit 2010/11 regelmäßig durchgeführte Befragung. Wie, Befragung? Gibt es keine besseren Zahlen? Nein. Seitdem es keine Vermögenssteuer mehr gibt, gibt es nicht einmal mehr belastbare, systematisch erhobene Zahlen. Und: Dadurch sind die Daten nicht öffentlich zugänglich.</Kommentar>
 
 ---
 
